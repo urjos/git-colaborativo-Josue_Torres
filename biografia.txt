@@ -1,1 +1,2 @@
-Mi nombre es Josué Jesús Torres Sanchez, estudio la carrera de Ing. de Software con IA y estoy aquí por mi pasión por la tecnologia
+Mi nombre es Josué Jesús Torres Sanchez, estudio la carrera de Ing. de Software con IA y estoy aquí por mi pasión por la tecnología. 
+Conozco lenguajes como: PHP, Java, Python, etc.
